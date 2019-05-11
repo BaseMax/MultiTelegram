@@ -9,3 +9,8 @@ $ MultiTelegram.sh ~/.Telegram-Work
 $ MultiTelegram.sh ~/.Telegram-Friend telegram-desktop
 $ MultiTelegram.sh ~/.Telegram-ResearchScope /usr/bin/telegram-desktop
 ```
+
+### Telegram
+
+![https://telegram.org/img/t_logo.png](https://telegram.org/)
+https://telegram.org/
