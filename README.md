@@ -17,6 +17,6 @@ $ MultiTelegram.sh   Telegram-ResearchScope    /usr/bin/telegram-desktop
  
 ### Telegram
 
-![https://telegram.org/](logo.png)
+[![Logo](logo.png)](https://telegram.org)
 
 https://telegram.org/
