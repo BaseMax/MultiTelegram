@@ -2,6 +2,13 @@
 
 Install and work with multi telegram account on one system, without copy or change source.
 
+## Install
+
+```sh
+sudo chmod +x MultiTelegram.sh
+sudo cp MultiTelegram.sh /usr/bin/
+```
+
 ## Using
 
 ```bash
