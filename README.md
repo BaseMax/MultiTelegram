@@ -20,7 +20,7 @@ $ MultiTelegram.sh       Telegram-ResearchScope    /usr/bin/telegram-desktop
 ## Support
 
 - Linux
- - Windows
+- Windows (Soon)
  
 ### Telegram
 
